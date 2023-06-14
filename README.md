@@ -1,2 +1,2 @@
-# I.gracilis_tree
+# Ischnosiphon gracilis_tree
 single-copy genes treefiles of the Ischnosiphon gracilis
